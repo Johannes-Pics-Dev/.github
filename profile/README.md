@@ -1,12 +1,28 @@
-## Hi there 👋
+# 👋 Welcome to Johannes Tech 🎉
+## **Let's get started**
 
-<!--
+### 💻 Terminal setup:
 
-**Here are some ideas to get you started:**
+- Install Homebrew:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  ``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``
+
+- Install Ohmyzsh:
+
+  ``sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"``
+  
+### 📝 Editor setup:
+
+- Install VSCode
+  > https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal
+- Install Sublime
+  > https://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg
+  
+### 📝 Messaging setup:
+
+- Install Discord
+  > https://discord.com/api/download?platform=osx
+- Join our channel
+  > https://discord.gg/9CBxZbjqX9
+  
+  
